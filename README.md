@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonderfobunet
+- 👋 Hi, I’m @Smekerie
 - 👀 I’m interested in Hearts of iron 4 Modding
 - 🌱 I’m currently learning just that
 - 💞️ I’m looking to collaborate on HoI4 Modding 
